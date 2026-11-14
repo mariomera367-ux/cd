@@ -1,0 +1,6 @@
+{
+  "name": "Base Lunar Selene — Selector de Hardware",
+  "description": "Selector interactivo de equipos críticos, materiales aeroespaciales y simulador de estrés ambiental para base espacial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
